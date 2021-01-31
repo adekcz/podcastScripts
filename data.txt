@@ -1,0 +1,11 @@
+--format will change
+
+CHANNEL WIDE:
+title = 
+url = 
+language = 
+author = 
+author_mail = 
+category = 
+description =
+podcast_image_url = 
